@@ -1,0 +1,14 @@
+
+
+
+body{
+	background: linear-gradient(orange,lightgreen);
+}
+
+.bounding-box{
+    position: middle;
+    width: 990px;
+    height: 200px;
+    background: none;
+    margin: 100px;
+}
